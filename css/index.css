@@ -1,0 +1,112 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html{
+	font-size: 100px; 
+}
+body{
+	font-size: 0.14rem;
+	background: #f4c4f3; 
+    background: -webkit-linear-gradient(to top, #ffc5fd, #f9c6dd); 
+    background: linear-gradient(to top, #ffc5fd, #f9c6dd); 
+	font-family: Helvetica,"Microsoft YaHei",Arial;
+}
+a{
+	text-decoration: none;
+}
+ul,ol,li{
+	list-style:none;
+}
+input{
+	outline: none;
+}
+.picture{
+	width: 1rem;
+	height: 1.43rem;
+	background-color: #fff;	
+	position: absolute;
+	left: 12%;
+	top: 0.3rem;
+	border: 4px solid rgba(236, 10, 118, 0.35)
+}
+.main{
+	width: 90%;
+	background-color: #fff;
+	margin: 1.1rem auto 0.68rem;
+	border-radius: 0.25rem;
+	padding-top: 0.35rem;
+	padding-bottom: 0.3rem;
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.26);
+}
+.main h1{
+	text-align: center;
+	font-size: 0.2rem;
+	color: #000;
+	text-indent: 0.2rem;
+}
+.main ul{
+	margin: 0.3rem 0.28rem 0;
+	font-size: 0.16rem;
+}
+.main ul li{
+	margin-bottom: 0.2rem;
+}
+.main ul li span{
+	color: #eb3481;
+}
+.main .yue{
+	display: block;
+	margin: 0.3rem auto 0.45rem;
+	width: 60%;
+	height: 0.36rem;
+	line-height: 0.36rem;
+	color: #fff;
+	font-size: 0.15rem;
+	outline: none;
+	border: 0;
+	background: #B24592;
+    background: -webkit-linear-gradient(to top, #F779da, #ed478c); 
+    background: linear-gradient(to top, #F779da, #ed478c);
+    border-radius: 0.2rem;
+    letter-spacing: 0.03rem;
+}
+.main .yue i{
+	display: inline-block;
+	width: 0.2rem;
+	height: 0.2rem;
+	background-image: url(../img/01.png);
+	background-size: cover;
+	vertical-align: -0.05rem;
+	margin-right: 0.08rem;
+}
+.hp p,.yp p{
+	color: #1a1a1a;
+	font-size: 0.15rem;
+	margin-bottom: 0.08rem;
+	text-align: center;
+}
+table{
+	border-collapse: collapse;
+	border: 2px solid #f8b9d1;
+	border-width: 2px 0 2px 0;
+	text-align: center;
+	font-size: 0.14rem;
+}
+td{
+	border: 1px solid #f8b9d1;
+	height: 0.4rem;
+}
+table .wu{
+	color: #e81674;
+}
+.footer{
+	margin: 0.35rem 0.28rem 0;
+	font-size: 0.16rem;
+}
+.footer span{
+	color: #eb3481;
+}
