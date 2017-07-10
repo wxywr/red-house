@@ -182,7 +182,8 @@ table .wu{
 	margin-right: 0.05rem;
 	background-image: url(../img/no.png);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 130%;
+	background-position: center;
 }
 .sort input:checked+label{
 	background-image: url(../img/yes.png);
