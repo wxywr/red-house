@@ -176,13 +176,13 @@ table .wu{
 }
 .sort label{
 	display: inline-block;
-	width: 0.15rem;
-	height: 0.15rem;
-	vertical-align: -0.02rem;
+	width: 0.18rem;
+	height: 0.18rem;
+	vertical-align: -0.03rem;
 	margin-right: 0.05rem;
 	background-image: url(../img/no.png);
 	background-repeat: no-repeat;
-	background-size: 130%;
+	background-size: 110%;
 	background-position: center;
 }
 .sort input:checked+label{
