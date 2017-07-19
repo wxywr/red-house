@@ -99,6 +99,9 @@ td{
 table .wu{
 	color: #bc2c58;
 }
+table .end{
+	border-right: 0;
+}
 .footer{
 	margin: 0.35rem 0.28rem 0;
 	font-size: 0.16rem;
