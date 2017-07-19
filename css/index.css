@@ -60,10 +60,10 @@ input{
 	display: block;
 	margin: 0.3rem auto 0.45rem;
 	width: 60%;
-	height: 0.38rem;
-	line-height: 0.38rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
 	color: #fff;
-	font-size: 0.16rem;
+	font-size: 0.17rem;
 	outline: none;
 	border: 0;
 	background: #bc2c58;
@@ -76,7 +76,7 @@ input{
 	height: 0.2rem;
 	background-image: url(../img/01.png);
 	background-size: cover;
-	vertical-align: -0.05rem;
+	vertical-align: -0.04rem;
 	background-repeat: no-repeat;
 	margin-right: 0.08rem;
 }
