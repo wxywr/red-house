@@ -121,7 +121,7 @@ table .wu{
 	width: 90%;
 	position: fixed;
 	left: 5%;
-	top: 33%;
+	top: 32%;
 	z-index: 1000;
 	display: none;
 }
@@ -135,7 +135,7 @@ table .wu{
 .sort li{
 	font-size: 0.15rem;
 	color: #000;
-	margin-bottom: 0.15rem;
+	margin-bottom: 0.12rem;
 	margin-left: 11%;
 	position: relative;
 }
@@ -146,7 +146,7 @@ table .wu{
 	border: 0;
 	float: left;
 	padding: 0.1rem 0.52rem;
-	margin-bottom: 0.2rem;
+	margin: 0.1rem 0 0.25rem;
 }
 .sort .no{
 	background-color: #ef90b3;
@@ -159,7 +159,7 @@ table .wu{
 	position: fixed;
 	left: 38%;
 	width: 25%;
-	top: 26%;
+	top: 25%;
 	z-index: 10000;
 	display: none;
 }
