@@ -94,6 +94,7 @@ table{
 td{
 	border: 1px solid #bc2c58;
 	height: 0.4rem;
+	border-left: 0;
 }
 table .wu{
 	color: #bc2c58;
